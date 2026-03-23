@@ -13,7 +13,6 @@ MonteMetrics replaces the single-number LTV model that most finance teams rely o
 
 # Snippets
 
-## 
 ![Spotify_Board_dashboard](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_board_dashboard.png)
 
 ![spotify_ltv_distribution](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_ltv_distribution.png)
