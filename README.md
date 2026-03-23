@@ -14,14 +14,14 @@ MonteMetrics replaces the single-number LTV model that most finance teams rely o
 # Snippets
 
 ## 
-![Spotify_Board_dashboard]()
+![Spotify_Board_dashboard](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_board_dashboard.png)
 
-![spotify_ltv_distribution]()
+![spotify_ltv_distribution](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_ltv_distribution.png)
 
-![Spotify_revenue_fan]()
+![Spotify_revenue_fan](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_revenue_fan.png)
 
-![Spotify_runway_survival]()
+![Spotify_runway_survival](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_runway_survival.png)
 
-![Spotify_sensitivity_tornado]()
+![Spotify_sensitivity_tornado](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_sensitivity_tornado.png)
 
-![Spotify_survival_curves]()
+![Spotify_survival_curves](https://github.com/Hshah168/MonteMetrics/blob/main/outputs/spotify_survival_curves.png)
